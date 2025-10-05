@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Jenny Tran
+## Hi there! 👋 I'm Jenny Tran ✨
 
 <!--
-**jennytran874-gif/jennytran874-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jennytran874-gif/jennytran874-gif** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 
-If there’s one thing to know about me: I take messy, complex information, organize it, and translate it into something practical and valuable.
+I take messy, complex information, organize it, and translate it into something practical and valuable.
 
 ---
 
@@ -27,13 +27,8 @@ If there’s one thing to know about me: I take messy, complex information, orga
 - **Business Analysis Intern** @ [FPT Software](https://fptsoftware.com/) – *Digial Analytics*
 
 ---
-## 📊 GitHub Stats
-<!-- Snake (shows correct variant for GitHub theme) -->
-![github-snake-dark](https://raw.githubusercontent.com/jennytran874-gif/jennytran874-gif/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github-snake-light](https://raw.githubusercontent.com/jennytran874-gif/jennytran874-gif/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-## Tools
+## 🌱 Tools
 ### 📊 Business Intelligence  
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) ![Mode](https://img.shields.io/badge/Mode-1A1A1A?style=for-the-badge&logo=mode&logoColor=white)
