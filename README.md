@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 
-If there’s one thing to know about me: I build data systems that turn noise into clarity—and I’ll outwork anyone to get there.
+If there’s one thing to know about me: I take messy, complex information, organize it, and translate it into something practical and valuable.
 
 ---
 
